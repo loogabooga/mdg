@@ -39,4 +39,4 @@ class MyView(discord.ui.View):
 async def button(ctx):
     await ctx.respond("This is a button!", view=MyView()) # Send a message with our View class that contains the button
 
-bot.run("MTA3Mjg5NzEzMzA2MzE5MjU3Ng.GFCk1i.bRQ8ovJ87LOAf1qVLH4XN8ilTyr4TdfOIPB5bY") # Run the bot
+bot.run("uh oh") # Run the bot
